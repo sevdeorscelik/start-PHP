@@ -1,0 +1,7 @@
+<?php
+
+/*
+&& - ve
+|| - veya
+!  - degilse
+*/
