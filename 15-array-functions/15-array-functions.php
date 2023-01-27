@@ -7,6 +7,20 @@
 // count(); //array'in eleman sayisini verir
 // is_array(); //arrayse 1, degilse 0 verir.
 
+//schuffle();
+// array_combine()
+// array_count_values()
+// array_flip()
+// array_key_exists()
+// array_map()
+// array_filter()
+// array_merge()
+// array_rand()
+// array_rand()
+// array_reverse()
+// array_reverse()
+
+
 
 
 $categories = [ 
