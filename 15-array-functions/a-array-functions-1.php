@@ -55,12 +55,3 @@ echo count($var); //3
 
 echo is_array($var); //1
 
-
-
-
-
-
-
-
-
-
